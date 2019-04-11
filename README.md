@@ -1,4 +1,6 @@
 # Breast Cancer Prediction
+![CONSIDER_ILLUSTRATION_WHEN 2018-05-17-15-52-32](https://user-images.githubusercontent.com/37177883/55973814-e5c2d680-5cb8-11e9-84cc-2486694edef2.jpg)
+
 Breast cancer is cancer that forms in the cells of the breasts. After skin cancer, breast cancer is the most common cancer diagnosed in women in the United States. Breast cancer can occur in both men and women, but it's far more common in women.
 
 # Problem:
